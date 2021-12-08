@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "manvi",
+        "age": 20,
+        "address": "bihar"
+    },
+    {
+        "id": 2,
+        "name": "kabita",
+        "age": 20,
+        "address": "bihar"
+    },
+    {
+        "id": 3,
+        "name": "mahi",
+        "age": 20,
+        "address": "bihar"
+    },
+    {
+        "id": 4,
+        "name": "amla",
+        "age": 19,
+        "address": "dehradun"
+    },
+    {
+        "id": 5,
+        "name": "savita",
+        "age": 25,
+        "address": "himachal"
+    }
+]
